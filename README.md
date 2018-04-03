@@ -16,8 +16,10 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - Install [git](https://git-scm.com/downloads)
   - Reconfigure `git branch` behaviour via: `git config --global pager.branch false` as per this SO [post](https://stackoverflow.com/a/48370253/1631577).
 - Sync with [dotfiles](https://github.com/ajfigueroa/dotfiles)
-- Install [brew](http://brew.sh/)
 - Install [node](https://nodejs.org/en/)
+- Install [brew](http://brew.sh/)
+- Install [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+  - Setup remotes for local repos via: `heroku git:remote -a {PROJECT_NAME}`
 
 # Applications
 
