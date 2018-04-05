@@ -51,3 +51,4 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - Add `scratchpad.playground` to Desktop
   - I use this to tinker with Swift ideas and quick code samples
 - Add `Development` folder 
+- Install [Metro Lights](https://github.com/rnystrom/Metro-Lights)
