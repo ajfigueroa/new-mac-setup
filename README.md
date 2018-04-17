@@ -41,6 +41,7 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - [Telegram](https://macos.telegram.org)
 - [Tweetbot](https://tapbots.com/tweetbot/mac/)
   - Transfer license
+- [GIF Brewery](http://gifbrewery.com)
   
 # Browsers
 
