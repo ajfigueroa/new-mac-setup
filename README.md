@@ -6,7 +6,7 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 
 - Install [iTerm 2](https://www.iterm2.com)
   - Preferences > Appearance > Theme > Dark
-  - Preferences > Appearance > Window > Uncheck `Use a different font for non-ASCII text`
+  - Preferences > Profiles > Text > Uncheck `Use a different font for non-ASCII text`
   - Preferences > Profiles > Text > Font > `12pt Meslo LG L DZ Regular for Powerline`
   - Preferences > Appearance > Window > Uncheck `Show line under title bar when the tab bar is not visible`
 - Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
