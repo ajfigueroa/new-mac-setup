@@ -36,8 +36,6 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - [Caffeine](http://lightheadsw.com/caffeine/)
 - [Sourcetree](https://www.sourcetreeapp.com)
   - Preferences > Theme > Dark
-- [BeardedSpice](https://github.com/beardedspice/beardedspice/blob/distr/publish/releases/BeardedSpice-2.2.2.zip)
-  - Specifically v2.2.2 as this is the last version that works with Spotify web player
 - [Telegram](https://macos.telegram.org)
 - [Tweetbot](https://tapbots.com/tweetbot/mac/)
   - Transfer license
