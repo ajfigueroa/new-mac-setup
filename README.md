@@ -40,6 +40,8 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - [Tweetbot](https://tapbots.com/tweetbot/mac/)
   - Transfer license
 - [GIF Brewery](http://gifbrewery.com)
+- [CodeRunner](http://coderunnerapp.com)
+  - Transfer License
   
 # Browsers
 
