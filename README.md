@@ -7,8 +7,6 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
 - Install [iTerm 2](https://www.iterm2.com)
   - Preferences > Appearance > Theme > Minimal
 - Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- Install [powerline-shell](https://github.com/b-ryan/powerline-shell)
-- Install [powerline-fonts](https://github.com/powerline/fonts/)
 - Install [git](https://git-scm.com/downloads)
   - Reconfigure `git branch` behaviour via: `git config --global pager.branch false` as per this SO [post](https://stackoverflow.com/a/48370253/1631577).
 - Sync with [dotfiles](https://github.com/ajfigueroa/dotfiles)
