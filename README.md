@@ -23,6 +23,7 @@ Inspired by https://github.com/KrauseFx/new-mac and https://github.com/clakech/m
   - Transfer license
   - Sync Preferences via Dropbox
   - Set hot key to double tap `CMD`
+  - https://www.alfredforum.com/topic/12932-alfred-4-cant-find-applications/
 - [Spectacle](https://www.spectacleapp.com)
 - [Overkill](https://krausefx.com/blog/introducing-overkill-dont-let-itunes-interrupt-your-workflow)
 - [Caffeine](http://lightheadsw.com/caffeine/)
